@@ -1,0 +1,23 @@
+.about {
+    background-image: url("../../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.title {
+    padding:150px 50px 0px ;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    margin: 50px;
+}

@@ -1,0 +1,70 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  background-color: rgb(192 203 190);
+  width: 100%;
+  height: 125px;
+}
+
+.welcome {
+  position: relative;
+  font-family: Fantasy, Papyrus;
+  font-size: 65px;
+  font-weight: bold;
+  color: yellow;
+  justify-content:left;
+  display: flex;
+  padding: 10% 60% 0%;
+  text-shadow: -4px 4px 6px green;
+}
+.to{
+  position: relative;
+  font-family: Fantasy, Papyrus;
+  font-size: 65px;
+  font-weight: bold;
+  color: yellow;
+  justify-content:left;
+  display: flex;
+  padding: 10% 60% 0%;
+  text-shadow: -4px 4px 6px green;
+
+}
+
+.image {
+  height: 85vh;
+  width: 100%;
+  background-image: url("../..//images/pg1bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+.name {
+  position: relative;
+  font-family: Fantasy, Papyrus;
+  font-size: 65px;
+  font-weight: bold;
+  color: yellow;
+ justify-content:left;
+  display: flex;
+  padding: 0% 60% 0%;
+  text-shadow: -4px 4px 6px green;
+}
+
+
+
+
+
+button {
+  font-family: Fantasy, Papyrus;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  height: 40px;
+  width: 80 px;
+  border: bold;
+  border-radius: 30%;
+}
+

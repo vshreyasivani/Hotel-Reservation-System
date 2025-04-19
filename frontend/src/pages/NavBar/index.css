@@ -1,0 +1,22 @@
+.nav {
+    margin: 50px 10px 50px 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  width: 70%;
+  }
+  
+  .logo {
+    width: 200px !important;
+    height:125px
+  }
+  
+  .user-container{
+    display: flex;
+    margin: 50px 10px 50px 50px;
+  }
+  
+  .user-name{
+    color:white;
+    padding:10px 15px 0px
+  }

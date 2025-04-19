@@ -1,0 +1,67 @@
+
+
+.outerdinner {
+    background-image: url('../../images/pg3bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .din {
+    font-size: 85px;
+    font-weight: bolder;
+    color: white;
+  }
+  
+  /* h1 {
+    align-items: left;
+    justify-content: left;
+    font-family: "Georgia", serif;
+    color: white;
+    font-size: 450%;
+    padding-left: 50px;
+    float: left;
+  } */
+  
+  .new {
+    font-family: "Georgia", serif;
+    color: white;
+    /* font-size: 50px; */
+  }
+  
+  input[type=radio] {
+    width: 25px;
+    height: 25px;
+  }
+  
+  input[type=date] {
+    width: 120px;
+    height: 40px;
+  }
+  
+  input[type=submit] {
+    width: 90px;
+    height: 40px;
+  }
+
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .dinnersubmit-container{
+    padding:25px 50px 5px;
+    margin: 0px 50px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .dinnersubmit{
+    padding:10px 50px 10px;
+
+  }

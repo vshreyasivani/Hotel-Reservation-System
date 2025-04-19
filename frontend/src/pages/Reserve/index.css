@@ -1,0 +1,54 @@
+ .reserve-container{
+    background-image: url('../../images/pg3bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+  } 
+  
+  #button1,
+  #button2,
+  #button3,
+  #button4 {
+    position: absolute;
+    font-size: 40px;
+    color: black;
+    left: 250px;
+  }
+  
+  #button1 {
+    top: 200px;
+  }
+  
+  #button2 {
+    top: 300px;
+  }
+  
+  #button3 {
+    top: 400px;
+  }
+  
+  #button4 {
+    top: 500px;
+  }
+  
+  .reserve-btn {
+    font-size: 30px;
+    font-family: "Fantasy", Papyrus;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    height: 60px;
+    width: 300px;
+    border: bold;
+    border-radius: 30%;
+  } 
+  
+  /* .logo {
+    position: absolute;
+    top: -50px;
+    left: 0px;
+    z-index: 2;
+  }
+   */
+  
